@@ -1,5 +1,5 @@
 # DEMO
-![Uploading image.png…]()
+<img width="926" height="499" alt="image" src="https://github.com/user-attachments/assets/e8dd114d-03d8-49cb-9481-59ce1bf597f2" />
 
 # 🚀 Blog Writing Agent
 
